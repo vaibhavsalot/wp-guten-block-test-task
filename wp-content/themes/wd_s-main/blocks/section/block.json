@@ -1,0 +1,14 @@
+{
+    "name": "acf/section",
+    "title": "France Gallery",
+    "description": "A custom Section block.",
+    "style": [ "file:./section.css" ],
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["infobox", "banner","france","gallery"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "section.php"
+    },
+    "align": "full"
+}

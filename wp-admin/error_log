@@ -1,0 +1,572 @@
+[28-Mar-2023 16:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WebDevStudios\wd_s\acf_register_block() in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:61
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(585): include()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin-ajax.php(22): require_once('/home/swiitchi/...')
+#4 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php on line 61
+[28-Mar-2023 16:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WebDevStudios\wd_s\acf_register_block() in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:61
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(585): include()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin-ajax.php(22): require_once('/home/swiitchi/...')
+#4 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php on line 61
+[28-Mar-2023 16:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WebDevStudios\wd_s\acf_register_block() in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:61
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(585): include()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/post.php(12): require_once('/home/swiitchi/...')
+#5 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php on line 61
+[28-Mar-2023 16:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WebDevStudios\wd_s\acf_register_block() in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:61
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(585): include()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#5 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php on line 61
+[28-Mar-2023 16:53:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WebDevStudios\wd_s\acf_register_block() in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:61
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(585): include()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#5 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php on line 61
+[28-Mar-2023 16:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WebDevStudios\wd_s\acf_register_block() in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:61
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(585): include()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/post.php(12): require_once('/home/swiitchi/...')
+#5 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php on line 61
+[28-Mar-2023 17:06:19 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "feh_acf_custom_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/plugins/advanced-custom-fields-pro/acf.php(333): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(308): ACF->init()
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#7 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#8 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#9 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#10 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#11 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 17:06:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "feh_acf_custom_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/plugins/advanced-custom-fields-pro/acf.php(333): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(308): ACF->init()
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#7 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#8 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#9 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#10 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#11 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:02:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin-ajax.php(22): require_once('/home/swiitchi/...')
+#6 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:02:19 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/index.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:03:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin-ajax.php(22): require_once('/home/swiitchi/...')
+#6 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:04:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin-ajax.php(22): require_once('/home/swiitchi/...')
+#6 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:04:40 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/edit.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:04:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/edit.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:04:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/edit.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:11:17 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:11:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:29 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:47 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:14:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:15:08 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:15:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:15:21 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:34 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:36 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:16:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:12 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:17:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_acf_blocks_test" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:18:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "test_sdfsdf" not found or invalid function name in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-settings.php(617): do_action()
+#3 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-config.php(96): require_once('/home/swiitchi/...')
+#4 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-load.php(50): require_once('/home/swiitchi/...')
+#5 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/admin.php(34): require_once('/home/swiitchi/...')
+#6 /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-admin/plugins.php(10): require_once('/home/swiitchi/...')
+#7 {main}
+  thrown in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-includes/class-wp-hook.php on line 308
+[28-Mar-2023 18:20:42 UTC] PHP Fatal error:  Cannot redeclare WebDevStudios\wd_s\register_acf_blocks_test() (previously declared in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:48) in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/inc/hooks/wrap-core-blocks.php on line 48
+[28-Mar-2023 18:21:03 UTC] PHP Fatal error:  Cannot redeclare WebDevStudios\wd_s\register_acf_blocks_test() (previously declared in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:48) in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/inc/hooks/wrap-core-blocks.php on line 48
+[28-Mar-2023 18:21:04 UTC] PHP Fatal error:  Cannot redeclare WebDevStudios\wd_s\register_acf_blocks_test() (previously declared in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:48) in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/inc/hooks/wrap-core-blocks.php on line 48
+[28-Mar-2023 18:21:04 UTC] PHP Fatal error:  Cannot redeclare WebDevStudios\wd_s\register_acf_blocks_test() (previously declared in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/functions.php:48) in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/inc/hooks/wrap-core-blocks.php on line 48
+[28-Mar-2023 18:30:31 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:30:31 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:34:13 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:34:13 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:36:13 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:36:13 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:37:15 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 18:37:15 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:09:17 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:09:17 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:11 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:11 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:12 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:17 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:18 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:18 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:18 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:18 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:18 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:10:18 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:25:58 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:25:58 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:33:40 UTC] PHP Warning:  Undefined variable $background_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
+[28-Mar-2023 19:33:40 UTC] PHP Warning:  Undefined variable $text_color in /home/swiitchi/demo.swiitch.in/wp-testtask-1/wp-content/themes/wd_s-main/blocks/section/section.php on line 33
